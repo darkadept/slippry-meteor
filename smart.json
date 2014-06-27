@@ -1,0 +1,7 @@
+{
+  "name": "slippry",
+  "description": "Slippry packaged for Meteor",
+  "author": "darkadept (darkadept@durbn.net)",
+  "version": "1.2.1",
+  "packages": { }
+}
